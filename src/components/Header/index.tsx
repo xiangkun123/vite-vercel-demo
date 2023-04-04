@@ -15,6 +15,7 @@ export default function Header() {
           Button
         </button>
         <div className='flex-c'>flex box</div>
+        <div>欢迎来到我的网站~</div>
       </h1>
     </div>
   )
